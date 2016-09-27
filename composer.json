@@ -22,7 +22,7 @@
   "minimum-stability": "dev",
   "require": {
     "kartik-v/yii2-widget-alert": "*",
-    "kartik-v/yii2-widget-growl": "*",
+    "kartik-v/yii2-widget-growl": "*"
   },
   "autoload": {
     "psr-4": {
